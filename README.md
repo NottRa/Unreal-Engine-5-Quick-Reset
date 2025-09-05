@@ -1,4 +1,4 @@
-# Unreal Quick Reset
+# Unreal Engine 5 Quick Reset
 
 Unreal Engine has a frustrating limitation:  
 when your project crashes (often after changing UPROPERTY/UCLASS, or corrupting Live Coding DLLs), the editor refuses to start until you manually:
@@ -63,4 +63,5 @@ This script makes the process **instant**. No more digging through `Intermediate
 
 ## 💡 Credits
 Created to save time for developers frustrated by Unreal’s rebuild cycle.  
+
 
