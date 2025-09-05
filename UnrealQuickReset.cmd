@@ -2,7 +2,7 @@
 setlocal EnableExtensions EnableDelayedExpansion
 
 rem ============================================================
-rem  Unreal Quick Reset – no logs, no cfg
+rem  Unreal Quick Reset
 rem ============================================================
 
 rem ---- MODES ----
@@ -183,4 +183,5 @@ for %%L in ("%PROJECT_ROOT%\Saved\Logs\%PROJECT_NAME%.log") do (
 echo.
 echo Press any key to close...
 pause >nul
+
 endlocal
